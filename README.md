@@ -1,1 +1,3 @@
-# cake-shop-customer-experience-app-126175
+# Project Repository
+
+This is the initial README file for the project.
